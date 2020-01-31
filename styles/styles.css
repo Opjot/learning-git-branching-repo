@@ -8,4 +8,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 h1{
     background: skyblue;
+    color:firebrick;
+}
+
+p{
+    background: springgreen;
+    color: violet;
 }
